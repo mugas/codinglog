@@ -62,70 +62,19 @@ function addDailyLog(date, text, imageSrc) {
 const dailyLogs = [
     {
         date: "2024-03-14",
-        text: `Today I explored creating interactive elements in HTML. Here are some key concepts I learned:
+        text: `Today I created the log diary using html + css + js.What I am learning and building is:
 
-        ---Creating buttons for user interaction.
-        ---Using forms to collect user input.
-        ---Implementing event listeners to respond to user actions.
+        ---learning C# with Microsoft and Free Code Camp
+        ---Finnish my Web Design certification with Free Code Camp
+        ---Creating a T-shirt priting product with no code tools
 
-      These concepts will be useful for building dynamic and engaging web experiences.
+      
       `,
-        imageSrc: "https://res.cloudinary.com/mugas/image/upload/v1685472339/Websites_that_work_for_you_vbat1t.png" // Replace with your image URL
+        imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1710624068/Ricardo_moreira_g8ixnr.png" // Replace with your image URL
     },
-    {
-        date: "2024-03-15",
-        text: `Today I learned about working with APIs in JavaScript. I explored fetching data from external sources and using it to populate web pages. This will enable me to build applications that interact with real-time data.
-      `,
-        imageSrc: "[image source URL 2]" // Replace with your image URL
-    },
-    {
-        date: "2024-03-15",
-        text: `Today I learned about working with APIs in JavaScript. I explored fetching data from external sources and using it to populate web pages. This will enable me to build applications that interact with real-time data.
-      `,
-        imageSrc: "[image source URL 2]" // Replace with your image URL
-    },
-    {
-        date: "2024-03-15",
-        text: `Today I learned about working with APIs in JavaScript. I explored fetching data from external sources and using it to populate web pages. This will enable me to build applications that interact with real-time data.
-      `,
-        imageSrc: "[image source URL 2]" // Replace with your image URL
-    },
-    {
-        date: "2024-03-15",
-        text: `Today I learned about working with APIs in JavaScript. I explored fetching data from external sources and using it to populate web pages. This will enable me to build applications that interact with real-time data.
-      `,
-        imageSrc: "[image source URL 2]" // Replace with your image URL
-    },
-    {
-        date: "2024-03-15",
-        text: `Today I learned about working with APIs in JavaScript. I explored fetching data from external sources and using it to populate web pages. This will enable me to build applications that interact with real-time data.
-      `,
-        imageSrc: "[image source URL 2]" // Replace with your image URL
-    },
-    {
-        date: "2024-03-15",
-        text: `Today I learned about working with APIs in JavaScript. I explored fetching data from external sources and using it to populate web pages. This will enable me to build applications that interact with real-time data.
-      `,
-        imageSrc: "[image source URL 2]" // Replace with your image URL
-    },
-    {
-        date: "2024-03-15",
-        text: `Today I learned about working with APIs in JavaScript. I explored fetching data from external sources and using it to populate web pages. This will enable me to build applications that interact with real-time data.
-      `,
-        imageSrc: "[image source URL 2]" // Replace with your image URL
-    },
-    {
-        date: "2024-03-15",
-        text: `Today I learned about working with APIs in JavaScript. I explored fetching data from external sources and using it to populate web pages. This will enable me to build applications that interact with real-time data.
-      `,
-        imageSrc: "[image source URL 2]" // Replace with your image URL
-    },
-    {
-        date: "2024-03-15",
-        text: `Today I learned about working with APIs in JavaScript. I explored fetching data from external sources and using it to populate web pages. This will enable me to build applications that interact with real-time data.
-      `,
-        imageSrc: "[image source URL 2]" // Replace with your image URL
-    },
+
+
+
     // Add entries for future dates here
 ];
 

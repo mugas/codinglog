@@ -1,0 +1,136 @@
+:root {
+    --primary-color: #ffffff;
+    /* White for background */
+    --accent-color-1: #1736f5;
+    /* Royal blue */
+    --accent-color-2: #FFC709;
+    /* Yellow */
+    --accent-color-3: #EC9237;
+    /* Orange */
+    --text-color: #000000;
+    /* Black for text */
+}
+
+body {
+    background-color: #000000;
+    /* Dark gray background */
+    margin: 0;
+    /* Remove default body margin */
+    font-family: Arial, sans-serif;
+    /* Use a fallback font */
+}
+
+.header {
+    text-align: center;
+    /* Center the content */
+    display: flex;
+    /* Use flexbox layout */
+    flex-direction: column;
+    /* Stack child elements vertically */
+    align-items: center;
+    /* Center child elements horizontally */
+}
+
+.header h1 {
+    font-size: 2em;
+    /* Increase title size */
+}
+
+#additional-links {
+    display: flex;
+    width: 100%;
+    gap: 20px;
+    justify-content: center;
+}
+
+#additional-links {
+    margin-top: 20px;
+    /* Add space above the links */
+}
+
+#additional-links a {
+    color: var(--accent-color-3);
+    /* Set link color to orange */
+    text-decoration: none;
+    /* Remove underline */
+    margin-bottom: 20px;
+    /* Add space between links */
+}
+
+#additional-links a:hover {
+    text-decoration: underline;
+    /* Add underline on hover */
+}
+
+
+h1 {
+    color: var(--primary-color);
+}
+
+.explanation {
+    color: var(--primary-color);
+}
+
+#logs-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    /* Four columns */
+    gap: 20px;
+    /* Gap between cards */
+    max-width: 80%;
+    /* Maximum width of the container */
+    margin: 0 auto;
+    /* Center the container horizontally */
+}
+
+.daily-log {
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+    background-color: var(--primary-color);
+    color: var(--text-color);
+}
+
+.daily-log:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    background-color: var(--accent-color-3);
+}
+
+.daily-log .log-content {
+    display: none;
+    /* Initially hide log content */
+}
+
+.daily-log a {
+    color: var(--accent-color-1);
+}
+
+.daily-log.expanded .log-content {
+    display: block;
+    /* Show log content on expansion */
+}
+
+.daily-log.expanded .log-content img {
+    max-width: 100%;
+    /* Ensure image doesn't exceed container width */
+    height: auto;
+    /* Maintain aspect ratio */
+}
+
+.daily-log .log-date {
+    display: block;
+    /* Ensure the date is displayed as a block element */
+    text-align: center;
+    /* Center the date */
+    font-size: 1.2em;
+    /* Increase the font size */
+    font-weight: bold;
+    /* Make the font bold */
+    text-decoration: none;
+    /* Remove underline */
+    color: #666666;
+    /* Set the color of the date */
+    margin-bottom: 10px;
+    /* Add some space below the date */
+}

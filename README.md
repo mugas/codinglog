@@ -1,8 +1,8 @@
 [![Social banner for mugas](./assets/me_banner.png)](http://gscreations.io/)
 
-<h1 align="center"> 🔥Good Stuff Tutorials🔥</h1>
+<h1 align="center"> 🔥Coding Adventure🔥</h1>
 
-<h2 align="center">Things I learn  and share</h2>
+<h2 align="center">Coding and Entrepreneurship</h2>
 
 ### Index
 
@@ -19,29 +19,27 @@
 
 # Name
 
-Good Stuff Tutorials
+Coding Adventure
 
 # Links
 
-[Website](https://ricardomoreiratutorials.carrd.co/)
+[Website](https://codingadventure.netlify.app/)
 
 ---
 
 # Description
 
-My projects and tutorials and tips coding related in all one place.
+After a hiatus my coding and indie building adventure continues. Here you can find my daily log.
 
 ---
 
 # Languages, Frameworks and others
 
-- **Nuxt.js** - Framework
-- **HTML** - Base
+- **C#** - 
+- **Lua** - Base
 - **CSS** - Styling
 - **Javascript** - Language
-- **Netlify CMS** - CMS
-- **Font Awesome** - Icons
-- **Share This** - Social Media
+- **HTML** - CMS
 
 ---
 
@@ -69,9 +67,12 @@ Have any question or find something that doesn't look good? Let's talk 😊
 
 # Roadmap
 
-Next steps to me implemented:
+Next steps:
 
-1. More and more tutorials
+1. Get more deep in C# knowledge
+2. Start learning Lua
+3. Finnish Web Design Certification
+4. Launch first product with no code tools
 
 ---
 

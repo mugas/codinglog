@@ -72,6 +72,103 @@ const dailyLogs = [
       `,
         imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1710624068/Ricardo_moreira_g8ixnr.png" // Replace with your image URL
     },
+    {
+        date: "2024-03-14",
+        text: `Today I created the log diary using html + css + js.What I am learning and building is:
+
+        ---learning C# with Microsoft and Free Code Camp
+        ---Finnish my Web Design certification with Free Code Camp
+        ---Creating a T-shirt priting product with no code tools
+
+      
+      `,
+        imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1710624068/Ricardo_moreira_g8ixnr.png" // Replace with your image URL
+    },
+    {
+        date: "2024-03-14",
+        text: `Today I created the log diary using html + css + js.What I am learning and building is:
+
+        ---learning C# with Microsoft and Free Code Camp
+        ---Finnish my Web Design certification with Free Code Camp
+        ---Creating a T-shirt priting product with no code tools
+
+      
+      `,
+        imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1710624068/Ricardo_moreira_g8ixnr.png" // Replace with your image URL
+    },
+    {
+        date: "2024-03-14",
+        text: `Today I created the log diary using html + css + js.What I am learning and building is:
+
+        ---learning C# with Microsoft and Free Code Camp
+        ---Finnish my Web Design certification with Free Code Camp
+        ---Creating a T-shirt priting product with no code tools
+
+      
+      `,
+        imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1710624068/Ricardo_moreira_g8ixnr.png" // Replace with your image URL
+    },
+    {
+        date: "2024-03-14",
+        text: `Today I created the log diary using html + css + js.What I am learning and building is:
+
+        ---learning C# with Microsoft and Free Code Camp
+        ---Finnish my Web Design certification with Free Code Camp
+        ---Creating a T-shirt priting product with no code tools
+
+      
+      `,
+        imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1710624068/Ricardo_moreira_g8ixnr.png" // Replace with your image URL
+    },
+    {
+        date: "2024-03-14",
+        text: `Today I created the log diary using html + css + js.What I am learning and building is:
+
+        ---learning C# with Microsoft and Free Code Camp
+        ---Finnish my Web Design certification with Free Code Camp
+        ---Creating a T-shirt priting product with no code tools
+
+      
+      `,
+        imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1710624068/Ricardo_moreira_g8ixnr.png" // Replace with your image URL
+    },
+    {
+        date: "2024-03-14",
+        text: `Today I created the log diary using html + css + js.What I am learning and building is:
+
+        ---learning C# with Microsoft and Free Code Camp
+        ---Finnish my Web Design certification with Free Code Camp
+        ---Creating a T-shirt priting product with no code tools
+
+      
+      `,
+        imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1710624068/Ricardo_moreira_g8ixnr.png" // Replace with your image URL
+    },
+    {
+        date: "2024-03-14",
+        text: `Today I created the log diary using html + css + js.What I am learning and building is:
+
+        ---learning C# with Microsoft and Free Code Camp
+        ---Finnish my Web Design certification with Free Code Camp
+        ---Creating a T-shirt priting product with no code tools
+
+      
+      `,
+        imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1710624068/Ricardo_moreira_g8ixnr.png" // Replace with your image URL
+    },
+    {
+        date: "2024-03-14",
+        text: `Today I created the log diary using html + css + js.What I am learning and building is:
+
+        ---learning C# with Microsoft and Free Code Camp
+        ---Finnish my Web Design certification with Free Code Camp
+        ---Creating a T-shirt priting product with no code tools
+
+      
+      `,
+        imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1710624068/Ricardo_moreira_g8ixnr.png" // Replace with your image URL
+    },
+
 
 
 

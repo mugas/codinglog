@@ -134,3 +134,31 @@ h1 {
     margin-bottom: 10px;
     /* Add some space below the date */
 }
+
+/* Default styles for all screen sizes */
+.daily-log {
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+    margin-bottom: 20px;
+    /* Add space between logs */
+}
+
+/* Tablet layout: 2 logs per row */
+@media only screen and (max-width: 1024px) {
+    #logs-container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+        /* Gap between logs */
+    }
+}
+
+/* Mobile layout: 1 log per row and column */
+@media only screen and (max-width: 768px) {
+    #logs-container {
+        display: block;
+        /* Switch to block layout */
+    }
+}

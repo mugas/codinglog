@@ -60,18 +60,31 @@ function addDailyLog(date, text, imageSrc) {
 
 // Daily log data (replace with your actual data)
 const dailyLogs = [
+
     {
-        date: "2024-03-14",
+        date: "2024-03-17",
+        text: `Before a short 2 day trip to go see Idles in Sweden I:
+
+        ---I continued my Web Design Certification in Free Code Camp. Doing a cat with CSS😊
+        ---Stateful vs Stateless methods in C#. First lines of code with C# in Visual Studio Code
+        ---Installed Lua and add it to Visual Studio Code
+
+      `,
+        imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1710706176/cat_html.png"
+    },
+    {
+        date: "2024-03-16",
         text: `Today I created the log diary using html + css + js.What I am learning and building is:
 
         ---learning C# with Microsoft and Free Code Camp
         ---Finnish my Web Design certification with Free Code Camp
-        ---Creating a T-shirt priting product with no code tools
+        ---Planning a T-shirt priting product with no code tools
 
       
       `,
-        imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1710624068/Ricardo_moreira_g8ixnr.png" // Replace with your image URL
+        imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1710624068/Ricardo_moreira_g8ixnr.png"
     },
+
 
 
 

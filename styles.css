@@ -34,7 +34,28 @@ body {
 .header h1 {
     font-size: 2em;
     /* Increase title size */
+    background: linear-gradient(to right, #1736f5, #ec9237);
+    /* Gradient background */
+    -webkit-background-clip: text;
+    /* Apply background to text */
+    -webkit-text-fill-color: transparent;
+    /* Hide text fill color */
+    animation: colorAnimation 3s ease-in-out infinite alternate;
+    /* Animation properties */
 }
+
+@keyframes colorAnimation {
+    0% {
+        background-position: 0% 50%;
+        /* Start position */
+    }
+
+    100% {
+        background-position: 100% 50%;
+        /* End position */
+    }
+}
+
 
 #additional-links {
     display: flex;

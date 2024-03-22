@@ -60,7 +60,26 @@ function addDailyLog(date, text, imageSrc) {
 
 // Daily log data (replace with your actual data)
 const dailyLogs = [
+    {
+        date: "2024-03-22",
+        text: `If I do it everyday, then I will learn more.
 
+        ---Finished the cat, made with CSS. Next will be to do a piano and I finish another section on the Web Design Certification
+        ---Lesson about if and then statement with C#. Will practice with more exercises tomorrow
+        ---My T-shirt store start to get shape. Testing first models
+      `,
+        imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1711147517/cat_x8qmtr.png"
+    },
+    {
+        date: "2024-03-21",
+        text: `Back to coding and feels good.
+
+        ---My cat is almost finished.These were some of the skills I was lacking in CSS - creating images from a div
+        ---Finished the lesson "Call methods from the .NET. The end was a small exercise about methods in .Net
+        ---First line of code with Lua.
+      `,
+        imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1711057858/c_s5hhkj.png"
+    },
     {
         date: "2024-03-17",
         text: `Before a short 2 day trip to go see Idles in Sweden I:

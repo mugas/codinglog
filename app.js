@@ -62,6 +62,15 @@ function addDailyLog(date, text, imageSrc) {
 const dailyLogs = [
     {
         date: "2024-03-22",
+        text: `A short day filled with some exercises
+
+        ---To get more confortable with C#, did more exercises about if statements
+        ---Finishing my store on printity and on Etsy to be able to launch the T-shirt business
+      `,
+        imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1711231178/chameleon_rh0iub.png"
+    },
+    {
+        date: "2024-03-22",
         text: `If I do it everyday, then I will learn more.
 
         ---Finished the cat, made with CSS. Next will be to do a piano and I finish another section on the Web Design Certification

@@ -61,7 +61,16 @@ function addDailyLog(date, text, imageSrc) {
 // Daily log data (replace with your actual data)
 const dailyLogs = [
     {
-        date: "2024-03-22",
+        date: "2024-03-24",
+        text: `A code a day makes it worth the day
+
+        ---Sunday with begin of working with arrays in C#. Syntax not much different then javascript
+        ---Continue preparing the open application letters and CV
+      `,
+        imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1711231178/chameleon_rh0iub.png"
+    },
+    {
+        date: "2024-03-23",
         text: `A short day filled with some exercises
 
         ---To get more confortable with C#, did more exercises about if statements

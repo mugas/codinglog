@@ -61,13 +61,35 @@ function addDailyLog(date, text, imageSrc) {
 // Daily log data (replace with your actual data)
 const dailyLogs = [
     {
+        date: "2024-03-26",
+        text: `More deep in C#
+
+        ---Piano done. Now have another project certification to finnish this module- Do a documentation page
+        ---In C#, first mode complete program written.Develop foreach and if-elseif-else structures to process array data in C#.
+        -- 
+        
+      `,
+        imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1711426971/piano_v71d53.png"
+    },
+    {
+        date: "2024-03-25",
+        text: `javascript helped.
+
+        ---Another module in my web design certification. Starting building a piano with CSS
+        ---Did more exercises about arrays and foreach in C# and also about how to write readable code. my previous knowledge of javascript was usefull.
+        -- First code steps with Lua. Data variables, multi line string,concatenation, etc
+        
+      `,
+        imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1711426972/lua_de4ou1.png"
+    },
+    {
         date: "2024-03-24",
         text: `A code a day makes it worth the day
 
         ---Sunday with begin of working with arrays in C#. Syntax not much different then javascript
         ---Continue preparing the open application letters and CV
       `,
-        imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1711231178/chameleon_rh0iub.png"
+        imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1711298051/arra_sczyw7.png"
     },
     {
         date: "2024-03-23",

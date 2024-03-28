@@ -61,6 +61,18 @@ function addDailyLog(date, text, imageSrc) {
 // Daily log data (replace with your actual data)
 const dailyLogs = [
   {
+    date: "2024-03-28",
+    text: `CSS variables go
+
+    ---New module of my web design course is about css variable and I am building a city skyline.
+    ---More time spending with debuggin Visual Studio Code then with C# but could make half of the challenge;
+    ---Went back again to C# in the evening to look again to the code. Make sense now. Tomorrow practice and practice
+
+    
+  `,
+    imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1711659088/morec_tunq53.png"
+  },
+  {
     date: "2024-03-27",
     text: `One step more near certification
 

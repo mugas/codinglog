@@ -61,13 +61,23 @@ function addDailyLog(date, text, imageSrc) {
 // Daily log data (replace with your actual data)
 const dailyLogs = [
   {
+    date: "2024-04-04",
+    text: `More organized training program
+
+    ---The cityskiline is ready;Next building a magazine using CSS Grid
+    ---Start the boolean project and conditionals in C#
+    ---Cv and cover letter mostly ready;
+
+    
+  `,
+    imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1712200611/bulding_hnbgxl.png"
+  },
+  {
     date: "2024-04-03",
     text: `More organized training program
 
     ---The cityskiline is getting almost ready.Not the most thrilling project but I get more knowledge of css variables;
     ---Did the project of if-then alone and was able to finish it with the right results.
-    ---Went back again to C# in the evening to look again to the code. Make sense now. Tomorrow practice and practice
-
     
   `,
     imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1712116167/c__daily_h65o4p.png"

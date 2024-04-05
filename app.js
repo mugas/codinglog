@@ -61,8 +61,20 @@ function addDailyLog(date, text, imageSrc) {
 // Daily log data (replace with your actual data)
 const dailyLogs = [
   {
+    date: "2024-04-05",
+    text: `More C#
+
+    ---The magazine is stil a bunch of text, no styles added. Also using font awesome this time
+    ---Working still with logic in C#. Today about variable scope and code blocks
+    ---Finnishing the rest of my profiles and website online;
+
+    
+  `,
+    imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1712287535/free_xcbuuq.png"
+  },
+  {
     date: "2024-04-04",
-    text: `More organized training program
+    text: `One more project done
 
     ---The cityskiline is ready;Next building a magazine using CSS Grid
     ---Start the boolean project and conditionals in C#

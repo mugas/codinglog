@@ -61,6 +61,18 @@ function addDailyLog(date, text, imageSrc) {
 // Daily log data (replace with your actual data)
 const dailyLogs = [
   {
+    date: "2024-04-07",
+    text: `Sunday comes along again
+
+    ---Start adding styles and grid to the magazine. Been some time that I used grid for the last time.
+    ---Was for loop time. Did the classic "Fizz Buzz" game;
+    ---Trying to learn how to create this game in html;
+
+    
+  `,
+    imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1712498058/forloop_wjexr3.png"
+  },
+  {
     date: "2024-04-05",
     text: `More C#
 

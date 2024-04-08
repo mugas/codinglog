@@ -61,6 +61,17 @@ function addDailyLog(date, text, imageSrc) {
 // Daily log data (replace with your actual data)
 const dailyLogs = [
   {
+    date: "2024-04-08",
+    text: `One more down
+    ---Magazine is done and now is time to finnish another module with a new project test
+    ---Working with do...while 
+    ---Learn a bit more about ASP.net
+
+    
+  `,
+    imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1712547403/maganize_xudx4z.png"
+  },
+  {
     date: "2024-04-07",
     text: `Sunday comes along again
 

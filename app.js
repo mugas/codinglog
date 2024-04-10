@@ -61,6 +61,28 @@ function addDailyLog(date, text, imageSrc) {
 // Daily log data (replace with your actual data)
 const dailyLogs = [
   {
+    date: "2024-04-10",
+    text: `4 down, one to go
+    ---Last module of web design certification- CSS Animation and Transformations
+    ---Fell more confident with loops byt more practice to come
+
+
+    
+  `,
+    imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1712720300/bool_ckutjk.png"
+  },
+  {
+    date: "2024-04-09",
+    text: `Good and bad days
+    ---Another module almost ready from the webdesign certification.
+    ---Do more exercised about do... and while. Tomorrow have to practice more to fully understand all steps
+    ---Learn a bit more about ASP.net, continuation
+
+    
+  `,
+    imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1712287535/free_xcbuuq.png"
+  },
+  {
     date: "2024-04-08",
     text: `One more down
     ---Magazine is done and now is time to finnish another module with a new project test

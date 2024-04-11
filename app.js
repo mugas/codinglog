@@ -61,13 +61,19 @@ function addDailyLog(date, text, imageSrc) {
 // Daily log data (replace with your actual data)
 const dailyLogs = [
   {
+    date: "2024-04-11",
+    text: `It rains cats and dogs
+    ---Started my ferris wheel project to practice css animations
+    ---Started the challenge of logic with C#, a app about cats and dogs
+    ---CV and resume done, make plan for social media
+  `,
+    imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1712805033/logic_lg8rhm.png"
+  },
+  {
     date: "2024-04-10",
     text: `4 down, one to go
     ---Last module of web design certification- CSS Animation and Transformations
     ---Fell more confident with loops byt more practice to come
-
-
-    
   `,
     imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1712720300/bool_ckutjk.png"
   },

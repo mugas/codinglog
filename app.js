@@ -61,6 +61,33 @@ function addDailyLog(date, text, imageSrc) {
 // Daily log data (replace with your actual data)
 const dailyLogs = [
   {
+    date: "2024-04-16",
+    text: `One at a time
+    ---Penguin done. Final project ahead;
+    ---Working on a business plan;
+    
+  `,
+    imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1713236701/penguin_vw0rcj.png"
+  },
+  {
+    date: "2024-04-14",
+    text: `I am starting seeing the end of the line
+    ---The penguin on CSS star going good and soon I will start my last project;
+    ---This c# app feels great to work on all skills that I have been practicing;
+    
+  `,
+    imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1713236556/Picture1_tu3p1c.png"
+  },
+  {
+    date: "2024-04-12",
+    text: `Getting there
+    ---Ferris wheel is done. Next a penguin
+    ---This c# app feels great to work on all skills that I have been practicing;
+    
+  `,
+    imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1712805033/logic_lg8rhm.png"
+  },
+  {
     date: "2024-04-11",
     text: `It rains cats and dogs
     ---Started my ferris wheel project to practice css animations

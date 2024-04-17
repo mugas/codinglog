@@ -67,7 +67,7 @@ const dailyLogs = [
     ---Business plan half way
     
   `,
-    imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1713236701/penguin_vw0rcj.png"
+    imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1713322258/certification_yqdxfg.png"
   },
   {
     date: "2024-04-16",

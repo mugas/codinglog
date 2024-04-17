@@ -61,6 +61,15 @@ function addDailyLog(date, text, imageSrc) {
 // Daily log data (replace with your actual data)
 const dailyLogs = [
   {
+    date: "2024-04-17",
+    text: `Done
+    ---Web Design certification done;
+    ---Business plan half way
+    
+  `,
+    imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1713236701/penguin_vw0rcj.png"
+  },
+  {
     date: "2024-04-16",
     text: `One at a time
     ---Penguin done. Final project ahead;

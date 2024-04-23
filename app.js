@@ -61,6 +61,42 @@ function addDailyLog(date, text, imageSrc) {
 // Daily log data (replace with your actual data)
 const dailyLogs = [
   {
+    date: "2024-04-23",
+    text: `Cypher
+    ---Continue the cipher in python
+    ---Calculations done
+    
+  `,
+    imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1713839351/Picture1_a86iaa.png"
+  },
+  {
+    date: "2024-04-22",
+    text: `Cypher
+    ---Build a cypher in Python;
+    ---Calculation for the business plan on going
+    
+  `,
+    imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1713470336/logdaily_ydjezs.png"
+  },
+  {
+    date: "2024-04-19",
+    text: `Many languages
+    ---Last months I have been looking to so many languages that the syntax is a challenge to know about which one. But it's a good challenge;
+    ---Business plan half way
+    
+  `,
+    imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1713470336/logdaily_ydjezs.png"
+  },
+  {
+    date: "2024-04-18",
+    text: `Let Python
+    ---I did some exercises some time ago but I ams starting from the start;
+    ---Business plan done now cash flow calculations;
+    
+  `,
+    imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1713470262/jvs_dpblqy.png"
+  },
+  {
     date: "2024-04-17",
     text: `Done
     ---Web Design certification done;

@@ -61,10 +61,37 @@ function addDailyLog(date, text, imageSrc) {
 // Daily log data (replace with your actual data)
 const dailyLogs = [
   {
+    date: "2024-04-26",
+    text: `Cypher is done
+    ---First project is done
+    ---Continue working with webflow for the website;
+    
+  `,
+    imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1713924571/codinglog_ohtnji.png"
+  },
+  {
+    date: "2024-04-25",
+    text: `Starting from the top
+    ---First tutorial of python seems more advanced in terms of logic but feels good to "break it"
+    ---Finnish website for the business;
+    
+  `,
+    imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1713924571/codinglog_ohtnji.png"
+  },
+  {
+    date: "2024-04-24",
+    text: `Cypher vigenere continues
+    ---Took some time to wrap the code around my head but now is good
+    ---Doing my first travel plan for the business and  plan the partnership;
+    
+  `,
+    imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1713924571/codinglog_ohtnji.png"
+  },
+  {
     date: "2024-04-23",
     text: `Cypher
-    ---Continue the cipher in python
-    ---Calculations done
+    ---Continue the cipher in python;
+    ---Calculations done;
     
   `,
     imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1713839351/Picture1_a86iaa.png"
@@ -73,7 +100,7 @@ const dailyLogs = [
     date: "2024-04-22",
     text: `Cypher
     ---Build a cypher in Python;
-    ---Calculation for the business plan on going
+    ---Calculation for the business plan on going;
     
   `,
     imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1713470336/logdaily_ydjezs.png"
@@ -82,7 +109,7 @@ const dailyLogs = [
     date: "2024-04-19",
     text: `Many languages
     ---Last months I have been looking to so many languages that the syntax is a challenge to know about which one. But it's a good challenge;
-    ---Business plan half way
+    ---Business plan half way;
     
   `,
     imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1713470336/logdaily_ydjezs.png"

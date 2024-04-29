@@ -61,6 +61,16 @@ function addDailyLog(date, text, imageSrc) {
 // Daily log data (replace with your actual data)
 const dailyLogs = [
   {
+    date: "2024-04-29",
+    text: `Luhn algorithm
+    ---Another project in Python. This is to implement the Luhn algorithm
+    ---Continue working with webflow for the website;
+    ---Starting from the first tool reviewed- Toggl
+    
+  `,
+    imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1714357535/py_uyt0hi.png"
+  },
+  {
     date: "2024-04-26",
     text: `Cypher is done
     ---First project is done

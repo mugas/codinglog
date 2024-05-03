@@ -61,6 +61,26 @@ function addDailyLog(date, text, imageSrc) {
 // Daily log data (replace with your actual data)
 const dailyLogs = [
   {
+    date: "2024-05-03",
+    text: `Webflow continues
+    ---GSCreations almost ready
+    ---GSTravels also
+    
+    
+  `,
+    imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1714704589/Picture2_pmrvbi.png"
+  },
+  {
+    date: "2024-05-01",
+    text: `Webflow comeback
+    ---Change GSCreations webflow to be actual
+    ---Continue working with webflow for the website;
+    
+    
+  `,
+    imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1714704602/Picture1_ud6fld.png"
+  },
+  {
     date: "2024-04-30",
     text: `Website important part
     ---The Luhn algorithm is done

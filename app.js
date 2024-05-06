@@ -61,9 +61,38 @@ function addDailyLog(date, text, imageSrc) {
 // Daily log data (replace with your actual data)
 const dailyLogs = [
   {
+    date: "2024-05-06",
+    text: `Welcome back python
+    ---Learn Lambda functions with a expense tracker;
+    --Prepare the files for Gscreations and GStravels
+    
+    
+  `,
+    imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1714962496/one_riqbrq.png"
+  },
+  {
+    date: "2024-05-05",
+    text: `This part is done
+    ---GSTravels also
+    
+    
+  `,
+    imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1714962496/two_bfi9jj.png"
+  },
+  {
+    date: "2024-05-04",
+    text: `Don´t stop till is done
+    ---GSCreations website done 
+    
+    
+    
+  `,
+    imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1714962496/three_zxpkc5.png"
+  },
+  {
     date: "2024-05-03",
     text: `Webflow continues
-    ---GSCreations almost ready
+    ---GSCreations almost ready;
     ---GSTravels also
     
     
@@ -73,7 +102,7 @@ const dailyLogs = [
   {
     date: "2024-05-01",
     text: `Webflow comeback
-    ---Change GSCreations webflow to be actual
+    ---Change GSCreations webflow to be actual;
     ---Continue working with webflow for the website;
     
     
@@ -83,7 +112,7 @@ const dailyLogs = [
   {
     date: "2024-04-30",
     text: `Website important part
-    ---The Luhn algorithm is done
+    ---The Luhn algorithm is done;
     ---Continue working with webflow for the website;
     ---Create videos for the tool typedesk
     
@@ -93,7 +122,7 @@ const dailyLogs = [
   {
     date: "2024-04-29",
     text: `Luhn algorithm
-    ---Another project in Python. This is to implement the Luhn algorithm
+    ---Another project in Python. This is to implement the Luhn algorithm;
     ---Continue working with webflow for the website;
     ---Starting from the first tool reviewed- Toggl
     
@@ -103,7 +132,7 @@ const dailyLogs = [
   {
     date: "2024-04-26",
     text: `Cypher is done
-    ---First project is done
+    ---First project is done;
     ---Continue working with webflow for the website;
     
   `,

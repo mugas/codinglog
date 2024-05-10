@@ -61,6 +61,36 @@ function addDailyLog(date, text, imageSrc) {
 // Daily log data (replace with your actual data)
 const dailyLogs = [
   {
+    date: "2024-05-10",
+    text: `Typedesk 
+    ---Working on a productivity tools manual
+    --Other step of the company setting: funding
+    
+    
+  `,
+    imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1715308551/two_rd2nmu.png"
+  },
+  {
+    date: "2024-05-08",
+    text: `Working with Typedesk 
+    ---Working on a productivity tools manual
+    
+    
+    
+  `,
+    imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1715308550/one_aith6u.png"
+  },
+  {
+    date: "2024-05-07",
+    text: `Expense tracker done
+    ---Learn Lambda functions with a expense tracker;
+    --Prepare the files for Gscreations and GStravels
+    
+    
+  `,
+    imageSrc: "https://res.cloudinary.com/dz35rr9j5/image/upload/v1714962496/one_riqbrq.png"
+  },
+  {
     date: "2024-05-06",
     text: `Welcome back python
     ---Learn Lambda functions with a expense tracker;
